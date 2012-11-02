@@ -1,6 +1,3 @@
-responsive-slides
-=================
-
 # Responsive Slides jQuery Plugin  
 
 This is a responsive slideshow jQuery plugin with touch support.
