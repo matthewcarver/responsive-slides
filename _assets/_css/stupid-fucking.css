@@ -1,0 +1,61 @@
+.slider{
+  width:100%;
+  display:block;
+
+  padding-bottom: 50%;
+
+  position:relative;
+  overflow: hidden;
+
+  background:#333; 
+}
+
+.slider nav{
+  width:10em;
+  display:block;
+
+  margin-left:-5em;
+
+  position:absolute;
+  left:50%;
+  bottom:1em;
+  z-index:991;
+}
+
+.slider nav ul{
+  width:100%;
+}
+
+.slider nav ul li{
+  width:25%;
+  display:block;
+  float:left;
+
+  font-family: Courier;
+  font-size: 5em;
+  text-align: center;
+  color:#ccc;
+
+  cursor: pointer;
+  cursor: hand;
+}
+
+.slider nav ul li.active{color:#888;}
+
+.slider .slide{
+  width:100%;
+  display:block;
+
+  position: absolute;
+  z-index:1;
+  left:100%;
+
+}
+.slider .slide.old{
+  z-index:1;
+}
+
+.slider .slide.active{
+  z-index:99;
+  left:0%;
+}
