@@ -1,4 +1,4 @@
-# Responsive Slides jQuery Plugin  
+# *Stupid fuckin'* Responsive Slides jQuery Plugin  
 
 This is a responsive slideshow jQuery plugin with touch support.
 
