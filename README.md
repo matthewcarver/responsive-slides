@@ -1,4 +1,6 @@
-# *Stupid fuckin'* Responsive Slides jQuery Plugin  
+## ~* THE Stupid fuckin'*~
+# Responsive Slides jQuery Plugin
+### With Mobile First!!
 
 This is a responsive slideshow jQuery plugin with touch support.
 
